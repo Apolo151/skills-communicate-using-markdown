@@ -5,3 +5,8 @@
 ### Yaktocat Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#### Code snippet
+```python
+print("Hello Open Source")
+```
