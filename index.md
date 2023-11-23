@@ -10,3 +10,7 @@
 ```python
 print("Hello Open Source")
 ```
+### A simple task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
